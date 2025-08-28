@@ -35,8 +35,8 @@ s3transfer==0.13.1
 scipy==1.15.3
 six==1.17.0
 sympy==1.14.0
-torch==
-torchvision==
+torch==2.2.2
+torchvision==0.17.2
 tqdm==4.67.1
 typing_extensions==4.14.1
 tzdata==2025.2
